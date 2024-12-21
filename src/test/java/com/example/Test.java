@@ -14,7 +14,7 @@ public class Test {
         driver.manage().window().maximize();
         String value = driver.getTitle();
         System.out.println(value);
-
+        System.out.println("Testing");
     }
     
 }
