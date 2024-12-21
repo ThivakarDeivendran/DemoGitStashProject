@@ -15,6 +15,7 @@ public class Test {
         String value = driver.getTitle();
         System.out.println(value);
         System.out.println("Testing");
+        System.out.println("Testing y");
     }
     
 }
